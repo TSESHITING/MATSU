@@ -39,29 +39,29 @@
 <details>
 <summary>🔍 點擊展開查看 11 張遊戲核心流程截圖</summary>
 
-| 1. 遊戲開頭選單 | 2. 故事背景引導 |
+| 1. 遊戲開頭選單 | 2. 在限定時間内完成尋寶 |
 | :---: | :---: |
-| <img src="MATSU_files/flow1.png" width="400"> | <img src="MATSU_files/flow2.png" width="400"> |
+|<img width="600" height="338" alt="01" src="https://github.com/user-attachments/assets/127ac614-1735-4265-8f98-048020672f93" /> | <img width="600" height="336" alt="02" src="https://github.com/user-attachments/assets/af150b93-3dfc-40f9-91a9-9e1c47fd80be" />|
 
-| 3. 進入莒光鄉場景 | 4. 大埔石刻解謎提示 |
+| 3. 開始 | 4. 大埔石刻解謎提示 |
 | :---: | :---: |
-| <img src="MATSU_files/flow3.png" width="400"> | <img src="MATSU_files/flow4.png" width="400"> |
+| <img width="600" height="332" alt="03" src="https://github.com/user-attachments/assets/b154052a-9c6a-4d35-9a39-b6e610369e49" />|<img width="600" height="335" alt="04" src="https://github.com/user-attachments/assets/d7214a99-7432-47f1-b809-99599288fdcb" />|
 
 | 5. 收集原生種彼岸花 | 6. 莒光五寶道具互動 |
 | :---: | :---: |
-| <img src="MATSU_files/flow5.png" width="400"> | <img src="MATSU_files/flow6.png" width="400"> |
+| <img width="600" height="338" alt="05" src="https://github.com/user-attachments/assets/668b5d6d-e5c3-4dd0-8f25-3e8d8e1262e5" />| <img width="600" height="337" alt="06" src="https://github.com/user-attachments/assets/1ceb7138-1ca7-4828-aa18-7fd9a003dda1" />|
 
 | 7. 流程畫面 07 | 8. 流程畫面 08 |
 | :---: | :---: |
-| <img src="MATSU_files/flow7.png" width="400"> | <img src="MATSU_files/flow8.png" width="400"> |
+|<img width="600" height="334" alt="07" src="https://github.com/user-attachments/assets/156de2a4-350b-42ea-a2fc-7e662c96cb00" />| <img width="600" height="332" alt="08" src="https://github.com/user-attachments/assets/76df8eb2-d80b-4d30-8dba-aecfaa0e86a9" />|
 
 | 9. 流程畫面 09 | 10. 流程畫面 10 |
 | :---: | :---: |
-| <img src="MATSU_files/flow9.png" width="400"> | <img src="MATSU_files/flow10.png" width="400"> |
+|<img width="600" height="333" alt="09" src="https://github.com/user-attachments/assets/c5420c60-d1f7-46ca-9c88-1d15c82bd179" /> |<img width="600" height="333" alt="10" src="https://github.com/user-attachments/assets/b71002d8-47c7-4529-b59b-3ad87ac731c6" />|
 
 | 11. 遊戲通關 / 結束畫面 | |
 | :---: | :---: |
-| <img src="MATSU_files/flow11.png" width="400"> | |
+| <img width="355" height="120" alt="11" src="https://github.com/user-attachments/assets/a96d0deb-f0e8-4911-b3be-63456f30d456" /> | |
 
 </details>
 
