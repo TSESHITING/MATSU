@@ -1,4 +1,4 @@
-# 🐦 MYTHICAL-BIRD-TREASURE-HUNT (神鳥尋寶記)
+# Matsu Worship Interactive Installation — 神鳥尋寶記：解開東莒寶藏的謎團
 
 [!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#english)
 [!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#繁體中文)
