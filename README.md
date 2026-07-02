@@ -93,31 +93,4 @@
 
 ---
 
-## English
 
-A 2D pixel art side-scrolling adventure game that explores the traditional culture and natural ecology of Juguang Township, Matsu.
-
-### 🚀 Live Demo & Visuals
-* 🎬 **Game Intro Animation / Demo Video**: [Click here to watch](貼上你的YouTube影片連結)
-* 📸 **Project Poster / Key Visual**:
-
-<img src="image_7da4bd.png" width="100%" alt="Mythical Bird Treasure Hunt Poster" />
-
-### 💡 About The Project
-Through a 2D pixel-art side-scrolling game, players embark on a journey to collect the native Lycoris radiata (spider lily) of Matsu and the "Five Treasures of Juguang," which are transformed from the historic Dapu Inscription. This immersive experience guides players to discover the rich traditional culture and natural ecology of Juguang Township, blending regional heritage with interactive gaming.
-
-### 🎮 Core Gameplay Elements
-* **Dapu Inscription:** The central storyline and historical puzzle-solving element of the game.
-* **Matsu Native Lycoris:** Serves as a vital collectible item throughout the adventure.
-* **The Five Treasures of Juguang:** Unique cultural props and level mechanics rooted in local history.
-
-### 📸 Project Gallery & Showcases
-
-* **🏆 Awards & Honors:** Includes 4 award certificates and ceremony highlights.
-* **🗺️ Gameplay Flow:** 11 screenshots tracking the player's core journey.
-* **💨 Unity Particles:** 5 design iterations of the Unity ambient smoke effects.
-* **📱 AR Interaction:** 2 images demonstrating the Augmented Reality integration.
-* **🎨 Merchandising:** 5 conceptual design images of the official game goods.
-* **🏛️ Exhibition:** 1 documentation photo from the live exhibition held at **Matsu New Village (馬祖新村)**.
-
-*(For full visual galleries of each section, please refer to the neatly organized tables in the Traditional Chinese section above!)*
