@@ -66,14 +66,12 @@
 </details>
 
 #### 💨 Unity 煙霧粒子特效 (Unity Smoke Particle Effects) · 共 5 張
-| 特效動態 01 | 特效動態 02 |
+| 花蛤 |豆腐 |
 | :---: | :---: |
 |<img width="1417" height="1890" alt="煙01" src="https://github.com/user-attachments/assets/ce28ed20-4492-41a0-bfee-db48c22dcc49" />|<img width="1417" height="1890" alt="煙02" src="https://github.com/user-attachments/assets/d4264fb1-3f5b-414a-b8ee-0b73fa102501" />|
-| 特效動態 01 | 特效動態 02 |
-| :---: | :---: |
+| 西瓜 | 洛神花 |
 |<img width="1417" height="1890" alt="煙03" src="https://github.com/user-attachments/assets/023aba40-b889-47e5-b5c1-aab3fde5ea49" />|<img width="1417" height="1890" alt="煙04" src="https://github.com/user-attachments/assets/35ae2e29-c89b-4ede-8abc-49dfe2c8430c" />|
-| 特效動態 01 | 
-| :---: |
+| 地瓜 | 
 |<img width="1417" height="1890" alt="煙05" src="https://github.com/user-attachments/assets/2bfd9f5a-3de1-4466-9cce-9f8fa0e27ca1" />
 
 | *(透過 Unity 粒子系統打造的氛圍感煙霧特效)* |
@@ -85,16 +83,24 @@
 |                                                                                                                                  |https://github.com/user-attachments/assets/e7e8c78a-267d-45f2-8d45-eb81247e53bf|
 
 #### 🎨 遊戲原創實體周邊 (Merchandise & Goods) · 共 5 張
-| 周邊設計 01 | 周邊設計 02 |
+| 周邊設計-店家集章  | 周邊設計-詩簽  |
 | :---: | :---: |
-| <img src="MATSU_files/goods1.png" width="400"> | <img src="MATSU_files/goods2.png" width="400"> |
-| <img src="MATSU_files/goods3.png" width="400"> | <img src="MATSU_files/goods4.png" width="400"> |
-| <img src="MATSU_files/goods5.png" width="400"> | *(結合莒光文史轉化的實體創意周邊)* |
+| <img width="1584" height="1033" alt="周邊01" src="https://github.com/user-attachments/assets/0b4c38f8-793d-4f95-96cc-80746660f047" />| <img width="846" height="215" alt="周邊03" src="https://github.com/user-attachments/assets/a6269679-342b-424c-b294-96021c50b48f" />|
+| 周邊設計-聖誕節 | 周邊設計-場景&角色  |
+|<img width="682" height="675" alt="周邊04" src="https://github.com/user-attachments/assets/c8722a89-44b4-43b0-ac5a-c85a9ca630b5" />| <img width="1555" height="495" alt="周邊05" src="https://github.com/user-attachments/assets/30b79e2f-bd3a-4e9a-9ea6-57bae5fd544e" /> |
+| 在學校擺攤賣周邊-和主任的合照  | 
+|<img width="1478" height="1108" alt="周邊02" src="https://github.com/user-attachments/assets/ad316a53-aa7a-4be5-b3a5-f27364882736" />
+ | *(結合莒光文史轉化的實體創意周邊)* |
 
 #### 🏛️ 實體展覽資訊 (Exhibition Info) · 共 1 張
 * **馬祖新村展覽紀錄：**
   
-  <img src="MATSU_files/exhibition1.png" width="500" alt="馬祖新村展覽現場" />
+  <img width="1477" height="1108" alt="703172_0" src="https://github.com/user-attachments/assets/35a5239b-f868-449d-b07d-dda78d94134e" />
+  <img width="4032" height="3024" alt="S__14606399" src="https://github.com/user-attachments/assets/bbba2c3c-fbdd-4099-89fb-296681576eab" />
+  <img width="531" height="846" alt="exhibition info" src="https://github.com/user-attachments/assets/edc98c41-7574-4c15-8946-edc00f807f13" />
+
+
+
   
   *(本專案曾於馬祖新村文創園區實體展出，將虛擬遊戲與社區活化空間進行實體連結。)*
 
