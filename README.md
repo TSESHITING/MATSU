@@ -1,4 +1,4 @@
-# 🐦 Matsu Worship Interactive Installation — 神鳥尋寶記：解開東莒寶藏的謎團 / Unlocking the Secrets of Dongju
+#  Matsu Worship Interactive Installation — 神鳥尋寶記：解開東莒寶藏的謎團 / Unlocking the Secrets of Dongju
 
 [!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#english)
 [!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#繁體中文)
@@ -103,7 +103,7 @@
 
 A 2D pixel art side-scrolling adventure game that seamlessly integrates the traditional culture and natural ecology of Juguang Township, Matsu.
 
-### 🚀 Live Demo & Visuals
+### 🚀 Live Visuals
 * 📸 **Project Poster / Key Visual**:
 
 <img width="1090" height="1502" alt="Mythical Bird Treasure Hunt Poster" src="https://github.com/user-attachments/assets/d13e1116-eef0-4073-8a54-e5210920f001" />
