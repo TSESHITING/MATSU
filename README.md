@@ -1,4 +1,4 @@
-# 🐦 MYTHICAL-BIRD-TREASURE-HUNT (神鳥尋寶記)
+(神鳥尋寶記)
 
 [!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#english)
 [!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#繁體中文)
