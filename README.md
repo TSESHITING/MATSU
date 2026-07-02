@@ -1,4 +1,4 @@
-# 🐦 MYTHICAL-BIRD-TREASURE-HUNT (神鳥尋寶記)
+# Matsu Worship Interactive Installation — 神鳥尋寶記：解開東莒寶藏的謎團
 
 [!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#english)
 [!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#繁體中文)
@@ -72,10 +72,11 @@
 | <img src="MATSU_files/smoke3.png" width="400"> | <img src="MATSU_files/smoke4.png" width="400"> |
 | <img src="MATSU_files/smoke5.png" width="400"> | *(透過 Unity 粒子系統打造的氛圍感煙霧特效)* |
 
-#### 📱 AR 擴增實境互動 (AR Interactive Experience) · 共 2 張
-| AR 掃描識別 | 虛擬實境互動表現 |
-| :---: | :---: |
-| <img src="MATSU_files/ar1.png" width="400"> | <img src="MATSU_files/ar2.png" width="400"> |
+#### 📱 AR 擴增實境互動 (AR Interactive Experience) · 共 1 張 & 1 影片
+|  手機AR  | IG AR |
+| :---: |:---: |
+| <img width="828" height="615" alt="AR01" src="https://github.com/user-attachments/assets/23ce521e-12f9-47fa-b21f-f1c3f7b806f1" />| https://github.com/user-attachments/assets/3ac0b384-c546-4de0-8f28-b5cde6892fb8 |
+|                                                                                                                                  |https://github.com/user-attachments/assets/e7e8c78a-267d-45f2-8d45-eb81247e53bf|
 
 #### 🎨 遊戲原創實體周邊 (Merchandise & Goods) · 共 5 張
 | 周邊設計 01 | 周邊設計 02 |
