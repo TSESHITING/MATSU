@@ -1,4 +1,4 @@
-# Matsu Worship Interactive Installation — 神鳥尋寶記：解開東莒寶藏的謎團
+# 🐦 MYTHICAL-BIRD-TREASURE-HUNT (神鳥尋寶記)
 
 [!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#english)
 [!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#繁體中文)
@@ -13,7 +13,8 @@
 
 * 📸 **專案海報 / 主視覺**：
 
-<img width="1090" height="1502" alt="IMG_3694" src="https://github.com/user-attachments/assets/8bd69659-f90e-46f4-8c39-5b1c3262b6ce" />
+<img width="1090" height="1502" alt="IMG_3694" src="https://github.com/user-attachments/assets/d13e1116-eef0-4073-8a54-e5210920f001" />
+
 
 ### 💡 專案簡介
 藉由 2D 像素卷軸遊戲，讓玩家在收集大埔石刻幻化成的馬祖原生種彼岸花與莒光五寶的過程，引領體驗莒光鄉的傳統文化與自然生態。透過虛擬的冒險故事與精緻的像素美術，將馬祖珍貴的文化資產與生態特色生動地呈現給大眾。
@@ -28,10 +29,11 @@
 ### 📸 專案開發成果與歷程展示 (Full Project Showcase)
 
 #### 🏆 榮譽與獲獎 (Awards & Recognition) · 共 4 張
-| 獲獎證書 / 現場表揚 | 榮譽亮點展示 |
+| 獲獎證書 | 名次|
 | :---: | :---: |
-| <img src="MATSU_files/award1.png" width="400"> | <img src="MATSU_files/award2.png" width="400"> |
-| <img src="MATSU_files/award3.png" width="400"> | <img src="MATSU_files/award4.png" width="400"> |
+| <img width="1764" height="2592" alt="award1" src="https://github.com/user-attachments/assets/57a59022-d246-4a7a-9587-19a56df3a1ce" />|<img width="1756" height="2592" alt="award2" src="https://github.com/user-attachments/assets/80f45f5f-f029-49b2-9341-c49da7a5bfbe" />|
+| <img width="1792" height="2592" alt="award3" src="https://github.com/user-attachments/assets/f22bcb4a-6207-41e0-82b1-1b9e001e75d0" />|<img width="1768" height="2516" alt="award4" src="https://github.com/user-attachments/assets/9df9e7b4-d22e-4735-a852-ecd2709bcabc" />
+ |
 
 #### 🗺️ 遊戲關卡與遊玩流程 (Gameplay Flow) · 共 11 張
 <details>
@@ -96,10 +98,10 @@
 A 2D pixel art side-scrolling adventure game that explores the traditional culture and natural ecology of Juguang Township, Matsu.
 
 ### 🚀 Live Demo & Visuals
-
+* 🎬 **Game Intro Animation / Demo Video**: [Click here to watch](貼上你的YouTube影片連結)
 * 📸 **Project Poster / Key Visual**:
 
-<img width="1090" height="1502" alt="IMG_3694" src="https://github.com/user-attachments/assets/8bd69659-f90e-46f4-8c39-5b1c3262b6ce" />
+<img src="image_7da4bd.png" width="100%" alt="Mythical Bird Treasure Hunt Poster" />
 
 ### 💡 About The Project
 Through a 2D pixel-art side-scrolling game, players embark on a journey to collect the native Lycoris radiata (spider lily) of Matsu and the "Five Treasures of Juguang," which are transformed from the historic Dapu Inscription. This immersive experience guides players to discover the rich traditional culture and natural ecology of Juguang Township, blending regional heritage with interactive gaming.
